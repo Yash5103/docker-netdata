@@ -83,7 +83,4 @@ Edit
    ┗ 📷metrics.png
 
 
-![image](https://github.com/user-attachments/assets/006f6da7-4b8e-43ef-bd6e-b64ab74c8612)
 
-
-![image](https://github.com/user-attachments/assets/f657e3d8-c4e7-422e-bcef-c70dac2a67f5)
